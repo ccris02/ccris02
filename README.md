@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PolkaDIR.com, Vegas1KV.com.
+- 🔭 I’m currently working on https://PolkaDIR.com, https://Vegas1KV.com.
 - 🌱 I’m currently learning API, Docker, k8s, Ansible, HTML.
 - 👯 I’m looking to collaborate on anything related to Polkadot Ecosystem.
 - 🤔 I’m looking for help with API integration.
